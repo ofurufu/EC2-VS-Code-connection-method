@@ -1,6 +1,6 @@
 # 🚀 AWS EC2 SSH via VS Code (Windows) — Complete Lab Guide
 
-## 📝 Quick Note:
+## 📝 Quick Note: 
 
 First of, I'll like you to know that this particular lab is important to me. I know I'll spend most of my days on collaborating and sharing Cloud Projects with other talented project team; so, this starts the journey on platforms like the VS Code, Git Bash and GitHub: committing a substantial part of my day to leanring these technical skils.
 
